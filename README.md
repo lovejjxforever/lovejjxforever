@@ -1,11 +1,15 @@
 # Hi there 👋
 ## Here are some ideas to you:
-
+### Personal information
 I’m currently working at **Northwest University**.
 
-I’m currently learning **Physics**.
+I’m currently learning **Physics and python**.
 
 I’m looking for **help** with you.
+
+### Contact information 
+1. QQ:3572651322
+1. Email:2020112086@stumail.nwu.edu.cn && liuhaoran3572651322@gmail.com
 <!--
 **lovejjxforever/lovejjxforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
