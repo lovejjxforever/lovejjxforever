@@ -1,8 +1,11 @@
-### Hi there 👋
-Here are some ideas to get you started:
-I’m currently working at Northwest University.
-I’m currently learning Physics.
-I’m looking for help with you.
+# Hi there 👋
+## Here are some ideas to you:
+
+I’m currently working at **Northwest University**.
+
+I’m currently learning **Physics**.
+
+I’m looking for **help** with you.
 <!--
 **lovejjxforever/lovejjxforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
